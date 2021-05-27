@@ -7,7 +7,7 @@ This is a Node.js application that will generate a team profile page based on us
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
-[Demo Viedo](https://drive.google.com/file/d/1Qf0YSQjzZLPApt43ufOPn1-alUf1f8_g/view)
+[Demo Video](https://drive.google.com/file/d/1Qf0YSQjzZLPApt43ufOPn1-alUf1f8_g/view)
 
 ![alt text](./assets/images/SS1.png)
 
