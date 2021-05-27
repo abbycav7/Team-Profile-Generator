@@ -9,7 +9,7 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 # Usage 
 [Demo Viedo]()
 
-![alt text]()
+![alt text](./assets/images/SS1.png)
 
 # Credits
 
